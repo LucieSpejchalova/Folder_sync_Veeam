@@ -1,2 +1,2 @@
-# Folder_sync_Veeam
-Solution for a task given for interview
+# Folder_sync
+Sznchronize files
